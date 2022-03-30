@@ -16,7 +16,3 @@ while ser_mouse.running:
         mouse_object.mouse_click(int(x), int(y), click)
 
 ser_mouse.close_server()
-
-# First commit
-
-# Second commit
