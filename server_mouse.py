@@ -18,3 +18,5 @@ while ser_mouse.running:
 ser_mouse.close_server()
 
 # First commit
+
+# Second commit
